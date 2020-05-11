@@ -5,3 +5,11 @@
     font-weight: bold;
     margin-top: 10;
 }
+
+.form-control{
+    border-bottom-color: peru;
+    border-width: 2;
+    margin: 5 0;
+    font-size: 20;
+    padding: 8 4;
+}
